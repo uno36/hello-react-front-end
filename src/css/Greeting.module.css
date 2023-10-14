@@ -1,0 +1,25 @@
+.greeting-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.greeting-title {
+  font-size: 24px;
+  color: #333;
+  margin-top: -300px;
+}
+
+.greeting-text {
+  font-size: 18px;
+  color: #666;
+}
+
+.loading-message {
+  font-size: 18px;
+  color: #999;
+}
+
+.error-message {
+  font-size: 18px;
+  color: #f00;
+}
